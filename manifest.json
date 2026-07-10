@@ -1,0 +1,9 @@
+{
+	"id": "steam-library",
+	"name": "Steam Library",
+	"version": "1.0.0",
+	"minAppVersion": "1.13.0",
+	"description": "Sync your Steam library, achievements, and playtime dashboard.",
+	"author": "Han",
+	"isDesktopOnly": false
+}
